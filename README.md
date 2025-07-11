@@ -50,15 +50,14 @@ pip install -r requirements.txt
 
 
 brain-tumor-detection/
-│
-├── uploads/               # Folder to store uploaded MRI images
-├── static/                # Static assets for Flask
-├── templates/             # HTML templates
-├── model.h5               # Trained model
-├── app.py                 # Flask app
-├── train_model.py         # Script to train the CNN
-├── requirements.txt       # Python dependencies
-└── README.md              # Project readme
+1.uploads/               # Folder to store uploaded MRI images
+2. static/                # Static assets for Flask
+3. templates/             # HTML templates
+4. model.h5               # Trained model
+5. app.py                 # Flask app
+6. train_model.py         # Script to train the CNN
+7. requirements.txt       # Python dependencies
+8. README.md              # Project readme
 
 
 # Results 
