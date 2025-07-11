@@ -8,23 +8,32 @@ MRI images loaded and resized
 Image normalization and augmentation
 
 -Model Architecture
+
 CNN built using Keras with Conv2D, MaxPooling2D, Dense layers, Dropout, etc.-Training & Evaluation
 
 -Model trained on labeled dataset
+
 Accuracy and loss visualized using matplotlib
 
 -Prediction
+
 Model used to predict tumor type from new images
 
 -Web Deployment
+
 Flask app created to upload and predict tumors from user-uploaded MRI scans
 
 # Technologies Used
 -Python
+
 -TensorFlow / Keras
+
 -NumPy
+
 -OpenCV
+
 -Flask (for web deployment)
+
 -Matplotlib / Seaborn (for visualization)
 -Jupyter Notebook
 
